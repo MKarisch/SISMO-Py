@@ -24,6 +24,9 @@ Developed at Universität Klagenfurt (2022) via collaborative theses:
 
 "SISMO: A Slime Mold Algorithm for Traffic Management" (Kristina Wogatai)
 
+# REQUIREMENTS
+Please refer to the requirements.txt file for prerequisites to run the simulation.
+
 # COPYRIGHT AND LICENSE
 Copyright 2025 Karisch Michael.
 
