@@ -1,0 +1,9 @@
+Requirements:
+
+NetLogo 6.4.0
+NetLogo Extensions: 
+-	Python 0.5.5
+
+Python 3.13.3
+
+Note that compatibility with different software versions is possible but unverified.
